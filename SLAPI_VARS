@@ -1,0 +1,4 @@
+# Username and password for softlayer API
+SLAPI="https://api.softlayer.com/rest/v3"
+SLNAME="sl_username"
+SLKEY="sl_api_key"
